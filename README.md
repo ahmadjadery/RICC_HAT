@@ -1,1 +1,1 @@
-# RICC_HAT
+HAT-PLL-28nm
